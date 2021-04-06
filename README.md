@@ -7,7 +7,7 @@ The PISA 2012 represents assessments of academic skills of 485,490 15-year-old p
 
 The main dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip), with feature documentation available in this file [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv).
 
-The PISA 2012 Technical Report which describes the methodology underlying the PISA 2012 survey can be found [here] (https://www.oecd.org/pisa/pisaproducts/pisa2012technicalreport.htm), and the codebook with detailed variable documentation can be found [here] (https://www.oecd.org/pisa/pisaproducts/PISA12_stu_codebook.pdf). 
+The PISA 2012 Technical Report which describes the methodology underlying the PISA 2012 survey can be found [here](https://www.oecd.org/pisa/pisaproducts/pisa2012technicalreport.htm), and the codebook with detailed variable documentation can be found [here](https://www.oecd.org/pisa/pisaproducts/PISA12_stu_codebook.pdf). 
 
 The repo includes:
 
