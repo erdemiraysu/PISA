@@ -11,9 +11,9 @@ The PISA 2012 Technical Report which describes the methodology underlying the PI
 
 The repo includes:
 
-1. Jupyter notebook file: All of the relationships explored are stored in 'exploration_template.ipynb'. The notebook file first explores every variable independently and then proceeds to the bivariate and multivariate explorations.
-2. A smaller subset of the dataset stored in CSV: 'pisa_small.csv'
-3. A slide deck presentation focusing on the main findings: 'slide_deck_template.slides'
+1. Jupyter notebook file: All of the relationships explored are stored in `exploration_template.ipynb`. The notebook file first explores every variable independently and then proceeds to the bivariate and multivariate explorations.
+2. A smaller subset of the dataset stored in CSV: `pisa_small.csv`
+3. A slide deck presentation focusing on the main findings: `slide_deck_template.slides`
 
 
 ## Summary of Findings
